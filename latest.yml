@@ -1,0 +1,8 @@
+version: 1.1.1
+files:
+  - url: TLMS-Teacher-Setup-1.1.1.exe
+    sha512: wywzQ9NuugijzBFl4cHuecqBv/qgfBLhOQfmRJUKbhJ5iAzBwGR2ddyuduU5y4lzNXF1vVmIVW8rtCIJh2upOQ==
+    size: 163688196
+path: TLMS-Teacher-Setup-1.1.1.exe
+sha512: wywzQ9NuugijzBFl4cHuecqBv/qgfBLhOQfmRJUKbhJ5iAzBwGR2ddyuduU5y4lzNXF1vVmIVW8rtCIJh2upOQ==
+releaseDate: '2024-01-22T11:46:02.023Z'

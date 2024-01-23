@@ -1,0 +1,24 @@
+directories:
+  output: dist
+  buildResources: build
+productName: TLMS Teacher
+appId: teacher.tlmsgh.com
+win:
+  icon: resources/logo.png
+mac:
+  icon: resources/icon.icns
+linux:
+  icon: resources/logo.png
+files:
+  - filter:
+      - '**/*'
+extraFiles:
+  - from: main/src
+    to: main/src
+    filter:
+      - '**/*'
+  - from: main/cert
+    to: main/cert
+    filter:
+      - '**/*'
+electronVersion: 21.4.4
